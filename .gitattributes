@@ -1,0 +1,9 @@
+/dae_analysis/QC_previous_to_dae_analysis/input/dnaG.new.Rdata filter=lfs diff=lfs merge=lfs -text
+/dae_analysis/QC_previous_to_dae_analysis/input/gtypes2.Rdata filter=lfs diff=lfs merge=lfs -text
+/dae_analysis/QC_previous_to_dae_analysis/input/dnaR.new.Rdata filter=lfs diff=lfs merge=lfs -text
+/dae_analysis/QC_previous_to_dae_analysis/input/HumanExon510S_SNPs&Genotype_info_original.txt filter=lfs diff=lfs merge=lfs -text
+/dae_analysis/QC_previous_to_dae_analysis/input/rnaG.new.Rdata filter=lfs diff=lfs merge=lfs -text
+/dae_analysis/QC_previous_to_dae_analysis/input/rnaR.new.Rdata filter=lfs diff=lfs merge=lfs -text
+/dae_analysis/dae_analysis/input/rnaLR.dnaLR.ratio2.91K filter=lfs diff=lfs merge=lfs -text
+/dae_analysis/dae_analysis/input/new.gene.anno.txt filter=lfs diff=lfs merge=lfs -text
+/dae_analysis/dae_analysis/input/gtypes.91K filter=lfs diff=lfs merge=lfs -text
